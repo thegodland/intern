@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  	<meta charset="utf-8">
+  	<script
+			src="https://code.jquery.com/jquery-3.3.1.min.js"
+			integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+			crossorigin="anonymous"></script>
+	<script type="text/javascript">
+
+	function outPutData(sortedData){
+
+			for(var i=0;i<sortedData.length;i++){
+
+				$(".listing").append('<img src="'+$(sortedData[i]).find("Photos").text()+'" alt="'+$(sortedData[i]).find("Name").text()+'" ><br> \
+						<p class="address"><strong>'+$(sortedData[i]).find("Address").text()+'</strong></p><p class="city">'+$(sortedData[i]).find("City").text()+'</p> \
+						<p class="yearly_rent">$'+$(sortedData[i]).find("Yearly_Rent").text()+'</p><p><span class="bedroom">'+$(sortedData[i]).find("Bedrooms").text()+'</span> | \
+						<span class="bathroom">'+$(sortedData[i]).find("Bathrooms").text()+'</span> | <span class="size">'+$(sortedData[i]).find("Size").text()+'</span></p>');
+				}	
+	}
+
+	function sortDataInAsce(xml){
+
+		$(".listing").empty();
+		var sortedSet = $(xml).find('Listing').get().sort(function(a, b) {
+  		var valA = $(a).find('Yearly_Rent').text();
+  		var valB = $(b).find('Yearly_Rent').text();
+  		return valA - valB;
+		});
+
+		outPutData(sortedSet);		
+	}
+
+	function sortDataInDesc(xml){
+
+		$(".listing").empty();
+		var sortedSet = $(xml).find('Listing').get().sort(function(a, b) {
+  		var valA = $(a).find('Yearly_Rent').text();
+  		var valB = $(b).find('Yearly_Rent').text();
+  		return valB - valA;
+		});
+
+		outPutData(sortedSet);	
+	}
+
+	function recentData(xml){
+
+		$(".listing").empty();
+		var sortedSet = $(xml).find('Listing').get().sort(function(a, b) {
+  		var valA = $(a).find('Yearly_Rent').text();
+  		var valB = $(b).find('Yearly_Rent').text();
+  		return valB - valA;
+		});
+
+		outPutData(sortedSet);	
+	}
+
+	function display(xml){
+
+		var data = $(xml).find('Listing');
+		outPutData(data);
+	}
+
+ 	// main function
+ 	// wait until page has been loaded
+	$(function(){
+
+		$.ajax({
+					type:"GET",
+					// url:"http://vrbostonrealty.com/xmlfiles/Off%20Market.xml",
+					url:"OffMarket.xml",
+					dataType:"xml",
+					success: display
+				});
+
+
+		$("#filter").change(function(){
+
+			$("#filter option[value='title']").remove();
+
+			if($("#filter").val()==="asce"){
+				$.ajax({
+					type:"GET",
+					// url:"http://vrbostonrealty.com/xmlfiles/Off%20Market.xml",
+					url:"OffMarket.xml",
+					dataType:"xml",
+					success: sortDataInAsce
+				});
+			}else if($("#filter").val()==="desc"){
+					$.ajax({
+						type:"GET",
+						// url:"http://vrbostonrealty.com/xmlfiles/Off%20Market.xml",
+						url:"OffMarket.xml",
+						dataType:"xml",
+						success: sortDataInDesc
+					});
+			}else if($("#filter").val()==="recent"){
+					$.ajax({
+							type:"GET",
+							// url:"http://vrbostonrealty.com/xmlfiles/Off%20Market.xml",
+							url:"OffMarket.xml",
+							dataType:"xml",
+							success: recentData
+					});
+			}
+	 	});
+
+
+		//fuzzy search based on street city and neighborhood
+	 	$("#search").keypress(function(e){
+	 		
+	 		if(e.which == "13"){
+	 			var keyword = $("#search").val().toLowerCase();
+	 			$.ajax({
+					type:"GET",
+					// url:"http://vrbostonrealty.com/xmlfiles/Off%20Market.xml",
+					url:"OffMarket.xml",
+					//data:{ "keyword": keyword},
+					dataType:"xml",
+					success: function(xml){
+						//console.log(response);
+						console.log(keyword);
+
+						$(".listing").empty();
+
+						$(xml).find('Listing').each(function(){
+							var cityName = $(this).find('City').text().toLowerCase();
+							var street = $(this).find('Street').text().toLowerCase();
+							var neighborhood = $(this).find('Neighborhood').text().toLowerCase();
+
+							if(cityName.indexOf(keyword) == -1 && street.indexOf(keyword) == -1 && neighborhood.indexOf(keyword) == -1){
+							
+								$(this).remove();
+							}
+						});
+
+						var matchSet = $(xml).find('Listing');
+
+						outPutData(matchSet);	
+					}
+				});
+	 		}
+	 	});
+
+	 	
+	});
+
+	</script>
+</head>
+<body>
+
+	<div id="price">
+		<select name="filter" id="filter">
+			<option value="title">choose a filter</option>
+			<option value="asce">price in ascending order</option>
+			<option value="desc">price in descending order</option>
+			<option value="recent">most recent</option>
+		</select>
+	</div>
+
+	<div id="fuzzySearch">
+			<input type="text" name="search" placeholder="Keyword" id="search">
+	</div>
+
+
+	<div id="container">
+		<div class="listing"></div>
+	</div>
+
+</body>
+</html>
+

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <script
+			  src="https://code.jquery.com/jquery-3.3.1.min.js"
+			  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+			  crossorigin="anonymous"></script>
+	<script type="text/javascript">
+	$(document).ready(function(){
+		$.ajax({
+			type:"GET",
+			url:"http://vrbostonrealty.com/xmlfiles/Off%20Market.xml",
+			// url:"OffMarket.xml",
+			dataType:"xml",
+			success: xmlParser
+		});
+	});
+
+	function xmlParser(xml){
+		$(xml).find("Listing").each(function(){
+			
+			$("#container").append('<div class="listing"><h1>'+$(this).find("Address").text()+'</h1></div>');
+			// $(".listing").fadeIn(1000);
+		
+		});
+	}
+	</script>
+  </head>
+<body>
+
+	<div id="container">This is a test demo</div>
+
+</body>
+</html>

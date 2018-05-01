@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+<!--   <meta http-equiv="access-control-allow-origin" content="http://vrbostonrealty.com"> -->
+<style>
+table,th,td {
+  border : 1px solid black;
+  border-collapse: collapse;
+}
+th,td {
+  padding: 5px;
+}
+</style>
+</head>
+<body>
+
+<button type="button" onclick="loadXMLDoc()">Display my selected data</button>
+<br><br>
+<table id="demo"></table>
+
+<script type="text/javascript">
+function loadXMLDoc() {
+  var xmlhttp = new XMLHttpRequest();
+
+  xmlhttp.open("GET", "OffMarket.xml", true);
+  xmlhttp.send();
+  console.log("failed");
+
+  xmlhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      myFunction(this);
+      console.log("succeed");
+    }
+  };
+}
+
+function myFunction(xml) {
+  var i;
+  var xmlDoc = xml.responseXML;
+  var table="<tr><th>Photos</th><th>Address</th><th>City</th><th>Yearly_Rent</th><th>Size</th><th>Bathrooms</th><th>Bedrooms</th></tr>";
+  var x = xmlDoc.getElementsByTagName("Listing");
+  for (i = 0; i <x.length; i++) { 
+    table += "<tr><td>" +
+    // x[i].getElementsByTagName("Photos")[0].childNodes[0].nodeValue +
+    // "</td></tr>" ;
+     // x[i].getElementsByTagName("Address")[0].childNodes[0].nodeValue +
+     // "</td></tr>" ;
+     x[i].getElementsByTagName("Photos")[0].childNodes[0].nodeValue +
+     "</td></tr>" ;
+    // x[i].getElementsByTagName("City")[0].childNodes[0].nodeValue +
+    // "</td><td>" + 
+    // x[i].getElementsByTagName("Yearly_Rent")[0].childNodes[0].nodeValue +
+    // "</td></tr>";
+    // x[i].getElementsByTagName("Size")[0].childNodes[0].nodeValue +
+    // "</td><td>" + 
+    // x[i].getElementsByTagName("Bathrooms")[0].childNodes[0].nodeValue +
+    // "</td><td>" + 
+    // x[i].getElementsByTagName("Bedrooms")[0].childNodes[0].nodeValue +
+    // "</td></tr>";
+  }
+  document.getElementById("demo").innerHTML = table;
+}
+</script>
+
+</body>
+</html>

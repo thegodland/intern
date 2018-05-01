@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Listings>
+	<Listing>
+		<Name>Northeastern / Harvard Medical / Mission Hill Single-Family</Name>
+		<OwnerId>00536000001WCoGAAW</OwnerId>
+		<RecordTypeId>01236000000JvZWAA0</RecordTypeId>
+		<Address>12 Wigglesworth</Address>
+		<Bedrooms>4</Bedrooms>
+		<Bathrooms>2</Bathrooms>
+		<CAP_Rate>4.86</CAP_Rate>
+		<City>Boston</City>
+		<Condo_Fee_Monthly>0</Condo_Fee_Monthly>
+		<Condo_Fee_Yearly>0.00</Condo_Fee_Yearly>
+		<ListingType>Sale</ListingType>
+		<LotSize>1600.00</LotSize>
+		<Monthly_Rent>5000</Monthly_Rent>
+		<Neighborhood>Roxbury Crossing</Neighborhood>
+		<Net_Operating_Income_NOI>48626.00</Net_Operating_Income_NOI>
+		<Number_of_Units_in_Property>1</Number_of_Units_in_Property>
+		<On_MLS_or_Off_MLS>Off Market</On_MLS_or_Off_MLS>
+		<Photos>0</Photos>
+		<Price_Per_Square>0</Price_Per_Square>
+		<PropertyType>Single Family</PropertyType>
+		<Size>2254.00</Size>
+		<Status>Active</Status>
+		<Street>Wigglesworth St</Street>
+		<StreetNumber>12</StreetNumber>
+		<Total_Operating_Expenses>11374.00</Total_Operating_Expenses>
+		<Trash_Removal>1200</Trash_Removal>
+		<Yearly_Insurance>2000</Yearly_Insurance>
+		<Yearly_Maintenance>1200</Yearly_Maintenance>
+		<Yearly_Rent>60000.00</Yearly_Rent>
+		<Yearly_Taxes>6974</Yearly_Taxes>
+		<Zip_Postal_Code>02120</Zip_Postal_Code>
+	</Listing>
+	<Listing>
+		<Name>75 Burbank Condo</Name>
+		<OwnerId>00536000002UzGEAA0</OwnerId>
+		<RecordTypeId>01236000000JvZWAA0</RecordTypeId>
+		<Address>Burbank St. BOSTON MA 02115</Address><Bed_Info>2Flrs CondoDocs --> 1bed!</Bed_Info>
+	<Bedrooms>2</Bedrooms>
+	<Bathrooms>1</Bathrooms>
+	<CAP_Rate>3.87</CAP_Rate>
+	<City>Boston</City>
+	<Condo_Fee_Monthly>297</Condo_Fee_Monthly>
+	<Condo_Fee_Yearly>3564.00</Condo_Fee_Yearly>
+	<Expense_and_Utility_Notes>Mortgage @$50k down @3.96% / 30 yrs</Expense_and_Utility_Notes>
+	<ListingType>Sale</ListingType>
+	<LotSize>888.00</LotSize>
+	<Monthly_Rent>2850</Monthly_Rent>
+	<Neighborhood>Fenway</Neighborhood>
+	<Net_Operating_Income_NOI>25155.00</Net_Operating_Income_NOI>
+	<Number_of_Units_in_Property>24</Number_of_Units_in_Property>
+	<On_MLS_or_Off_MLS>Off Market</On_MLS_or_Off_MLS>
+	<Parking_Spaces>0</Parking_Spaces>
+	<Photos>14</Photos>
+	<Price>650000.00</Price>
+	<Price_Per_Square>732</Price_Per_Square>
+	<PropertyType>Condo</PropertyType>
+	<Size>888.00</Size>
+	<Status>Active</Status>
+	<Street>Burbank</Street>
+	<StreetNumber>75</StreetNumber>
+	<Total_Operating_Expenses>9045.00</Total_Operating_Expenses>
+	<Yearly_Rent>34200.00</Yearly_Rent>
+	<Yearly_Taxes>5481</Yearly_Taxes>
+	<Zip_Postal_Code>02115</Zip_Postal_Code>
+</Listing>
+<Listing>
+	<Name>348 E 8th / 47 Mercer</Name>
+	<OwnerId>00536000000ncW4AAI</OwnerId>
+	<RecordTypeId>01236000000JvZWAA0</RecordTypeId>
+	<Address>348 E Eighth Street</Address>
+	<Bedrooms>6</Bedrooms>
+	<Bathrooms>6</Bathrooms>
+	<CAP_Rate>6.48</CAP_Rate>
+	<City>Boston</City>
+	<Condo_Fee_Yearly>0.00</Condo_Fee_Yearly>
+	<ListingType>Sale</ListingType>
+	<Monthly_Rent>6000</Monthly_Rent>
+	<Neighborhood>South Boston</Neighborhood>
+	<Net_Operating_Income_NOI>58305.00</Net_Operating_Income_NOI>
+	<Number_of_Units_in_Property>6</Number_of_Units_in_Property>
+	<On_MLS_or_Off_MLS>Off Market</On_MLS_or_Off_MLS>
+	<Photos>1</Photos>
+	<Price>2200000.00</Price>
+	<Price_Per_Square>611</Price_Per_Square>
+	<PropertyType>Multi Family</PropertyType>
+	<Size>3600.00</Size>
+	<Status>ONMARKET</Status>
+	<Street>East 8th</Street>
+	<StreetNumber>348</StreetNumber>
+	<Total_Operating_Expenses>13695.00</Total_Operating_Expenses>
+	<Trash_Removal>1000</Trash_Removal>
+	<Yearly_Insurance>1000</Yearly_Insurance>
+	<Yearly_Maintenance>2000</Yearly_Maintenance>
+	<Yearly_Rent>72000.00</Yearly_Rent>
+	<Yearly_Taxes>7695</Yearly_Taxes>
+	<Yearly_Water__Sewer>2000</Yearly_Water__Sewer>
+	<Zip_Postal_Code>02127</Zip_Postal_Code>
+</Listing>
+<Listing>
+	<Name>Howard St. Revere</Name>
+	<OwnerId>00536000002UzGEAA0</OwnerId>
+	<RecordTypeId>01236000000JvZWAA0</RecordTypeId>
+	<Address>Howard</Address>
+	<Bedrooms>3</Bedrooms>
+	<Bathrooms>1</Bathrooms>
+	<CAP_Rate>6.53</CAP_Rate>
+	<City>Revere</City>
+	<Condo_Fee_Yearly>0.00</Condo_Fee_Yearly>
+	<Description>Building Style	OLD STYLE	Foundation Type	CONC BLOCK	Flooring Type	HARDWOOD # of Living Units	1	Frame Type	WOOD	Basement Floor	CONCRETE Year Built	1930	Roof Structure	GAMBREL Heating Type	FORCED H/W Building Grade	AVERAGE	Roof Cover	ASPHALT	Heating Fuel	OIL Building Condition	Average	Siding	ASBESTOS	Air Conditioning	0% Finished Area (SF)	1562.19998	Interior Walls PLASTER	# of Bsmt Garages	0 Number Rooms	7	# of Bedrooms	3	# of Full Baths	1</Description>
+	<Expense_and_Utility_Notes>@45k down, 30 yr fixed at 3.92%</Expense_and_Utility_Notes>
+	<ListingType>Sale</ListingType>
+	<LotSize>4007.00</LotSize>
+	<Monthly_Rent>2450</Monthly_Rent>
+	<Net_Operating_Income_NOI>29400.00</Net_Operating_Income_NOI>
+	<Number_of_Units_in_Property>1</Number_of_Units_in_Property>
+	<On_MLS_or_Off_MLS>Off Market</On_MLS_or_Off_MLS>
+	<Parking_Spaces>2</Parking_Spaces>
+	<Photos>3</Photos>
+	<Price>450000.00</Price>
+	<Price_Per_Square>288</Price_Per_Square>
+	<PropertyType>Single Family</PropertyType>
+	<Size>1562.00</Size>
+	<Status>Active</Status>
+	<Street>Howard</Street>
+	<Total_Operating_Expenses>0.00</Total_Operating_Expenses>
+	<Yearly_Rent>29400.00</Yearly_Rent>
+</Listing>
+<Listing>
+	<Name>202-204 Lexington</Name>
+	<OwnerId>00536000000q36VAAQ</OwnerId>
+	<RecordTypeId>01236000000JvZWAA0</RecordTypeId>
+	<Address>East Boston</Address>
+	<Condo_Fee_Yearly>0.00</Condo_Fee_Yearly>
+	<ListingType>Sale</ListingType>
+	<Neighborhood>East Boston</Neighborhood>
+	<Net_Operating_Income_NOI>0.00</Net_Operating_Income_NOI>
+	<On_MLS_or_Off_MLS>Off Market</On_MLS_or_Off_MLS>
+	<Photos>0</Photos>
+	<Price>2000000.00</Price>
+	<PropertyType>Multi Family</PropertyType>
+	<Status>Active</Status>
+	<Total_Operating_Expenses>0.00</Total_Operating_Expenses>
+	<Yearly_Rent>0.00</Yearly_Rent>
+</Listing>
+<Listing>
+	<Name>62 Ridgemont</Name>
+	<OwnerId>00536000003fX2CAAU</OwnerId>
+	<RecordTypeId>01236000000JvZWAA0</RecordTypeId>
+	<Address>Ridgemont St</Address>
+	<Bedrooms>10</Bedrooms>
+	<Bathrooms>4</Bathrooms>
+	<CAP_Rate>6.00</CAP_Rate>
+	<City>Allston</City>
+	<Condo_Fee_Yearly>0.00</Condo_Fee_Yearly>
+	<Heating>4000</Heating>
+	<ListingType>Sale</ListingType>
+	<LotSize>6288.00</LotSize>
+	<Monthly_Rent>9000</Monthly_Rent>
+	<Neighborhood>Allston</Neighborhood>
+	<Net_Operating_Income_NOI>90052.00</Net_Operating_Income_NOI>
+	<Number_of_Units_in_Property>2</Number_of_Units_in_Property>
+	<On_MLS_or_Off_MLS>Off Market</On_MLS_or_Off_MLS>
+	<Photos>0</Photos>
+	<Price>1400000.00</Price>
+	<Price_Per_Square>361</Price_Per_Square>
+	<PropertyType>Multi Family</PropertyType>
+	<Size>3879.00</Size>
+	<Status>Active</Status>
+	<Street>Ridgemont St</Street>
+	<StreetNumber>62</StreetNumber>
+	<Total_Operating_Expenses>17948.00</Total_Operating_Expenses>
+	<Yearly_Insurance>3000</Yearly_Insurance>
+	<Yearly_Rent>108000.00</Yearly_Rent>
+	<Yearly_Taxes>8948</Yearly_Taxes>
+	<Yearly_Water__Sewer>2000</Yearly_Water__Sewer>
+	<Zip_Postal_Code>02134</Zip_Postal_Code>
+</Listing>
+<Listing>
+	<Name>9 Sewall Mission Hill</Name>
+	<OwnerId>00536000000pdOdAAI</OwnerId>
+	<RecordTypeId>01236000000JvZWAA0</RecordTypeId>
+	<Address>Sewall St Mission Hill</Address>
+	<Bedrooms>6</Bedrooms>
+	<Bathrooms>4</Bathrooms>
+	<City>Boston</City>
+	<Condo_Fee_Yearly>0.00</Condo_Fee_Yearly>
+	<Description>single fam 6 bed 4 bath parking included central ac</Description>
+	<Heating>2000</Heating>
+	<ListingType>Sale</ListingType>
+	<Monthly_Rent>6300</Monthly_Rent>
+	<Neighborhood>Mission Hill</Neighborhood>
+	<Net_Operating_Income_NOI>63600.00</Net_Operating_Income_NOI>
+	<Number_of_Units_in_Property>1</Number_of_Units_in_Property>
+	<On_MLS_or_Off_MLS>Off Market</On_MLS_or_Off_MLS>
+	<Photos>0</Photos>
+	<Price>1300000.00</Price>
+	<PropertyType>Single Family</PropertyType>
+	<Status>Active</Status>
+	<Street>Sewall</Street>
+	<StreetNumber>9</StreetNumber>
+	<Total_Operating_Expenses>12000.00</Total_Operating_Expenses>
+	<Trash_Removal>1000</Trash_Removal>
+	<Unit>9</Unit>
+	<Yearly_Rent>75600.00</Yearly_Rent>
+	<Yearly_Taxes>7000</Yearly_Taxes>
+	<Yearly_Water__Sewer>2000</Yearly_Water__Sewer>
+</Listing>
+<Listing>
+	<Name>XX7-XX1 Highland Ave.</Name>
+	<OwnerId>00536000002UzGEAA0</OwnerId>
+	<RecordTypeId>01236000000JvZWAA0</RecordTypeId>
+	<Address>XX7-XX1 Highland Ave, Unit 3, Malden, MA 02148-6430</Address>
+	<Bedrooms>1</Bedrooms>
+	<Bathrooms>1</Bathrooms>
+	<CAP_Rate>-1.76</CAP_Rate>
+	<City>Malden</City>
+	<Condo_Fee_Monthly>155</Condo_Fee_Monthly>
+	<Condo_Fee_Yearly>1860.00</Condo_Fee_Yearly>
+	<ListingType>Sale</ListingType>
+	<Neighborhood>Malden</Neighborhood>
+	<Net_Operating_Income_NOI>-4389.00</Net_Operating_Income_NOI>
+	<On_MLS_or_Off_MLS>Off Market</On_MLS_or_Off_MLS>
+	<Photos>0</Photos>
+	<Price>250000.00</Price>
+	<Price_Per_Square>419</Price_Per_Square>
+	<PropertyType>Condo</PropertyType>
+	<Size>596.00</Size>
+	<Status>Active</Status>
+	<Street>Highland Ave.</Street>
+	<Total_Operating_Expenses>4389.00</Total_Operating_Expenses>
+	<Unit>3</Unit>
+	<Yearly_Rent>0.00</Yearly_Rent>
+	<Yearly_Taxes>2529</Yearly_Taxes>
+	<Zip_Postal_Code>02148</Zip_Postal_Code>
+</Listing>
+<Listing>
+	<Name>Clinton St. Condos (3)</Name>
+	<OwnerId>00536000002UzGEAA0</OwnerId>
+	<RecordTypeId>01236000000JvZWAA0</RecordTypeId>
+	<Address>Clinton St. Everett, MA</Address>
+	<Bedrooms>10</Bedrooms>
+	<Bathrooms>3</Bathrooms>
+	<CAP_Rate>8.32</CAP_Rate>
+	<City>Everett</City>
+	<Condo_Fee_Monthly>155</Condo_Fee_Monthly>
+	<Condo_Fee_Yearly>1860.00</Condo_Fee_Yearly>
+	<Description>3 Condo Units Top Floor 4 Beds ($325) the lower 2 units are $300k each (3 beds 1 bath) Currently Tenant Occupied 3800sqft total (est.)</Description>
+	<ListingType>Sale</ListingType>
+	<Monthly_Rent>6500</Monthly_Rent>
+	<Neighborhood>Everett</Neighborhood>
+	<Net_Operating_Income_NOI>76140.00</Net_Operating_Income_NOI>
+	<Number_of_Units_in_Property>3</Number_of_Units_in_Property>
+	<On_MLS_or_Off_MLS>Off Market</On_MLS_or_Off_MLS>
+	<Parking_Spaces>3</Parking_Spaces>
+	<Photos>0</Photos>
+	<Price>910000.00</Price>
+	<Price_Per_Square>253</Price_Per_Square>
+	<PropertyType>Portfolio</PropertyType>
+	<Rental_Notes>3 Condo Units Top Floor 4 Beds ($325) the lower 2 units are $300k each (3 beds 1 bath) Currently Tenant Occupied</Rental_Notes>
+	<Size>3600.00</Size>
+	<Status>Active</Status>
+	<Street>Clinton</Street>
+	<Total_Operating_Expenses>1860.00</Total_Operating_Expenses>
+	<Yearly_Rent>78000.00</Yearly_Rent>
+	<Zip_Postal_Code>02149</Zip_Postal_Code>
+</Listing>
+<Listing>
+	<Name>Cambridge St. Offices/B&amp;B</Name>
+	<OwnerId>00536000002UzGEAA0</OwnerId>
+	<RecordTypeId>01236000000JvZWAA0</RecordTypeId>
+	<Address>Cambridge St.</Address>
+	<Bed_Info>Offices/3 Kitchens 6 Bath</Bed_Info>
+	<CAP_Rate>5.22</CAP_Rate>
+	<City>Allston</City>
+	<Condo_Fee_Yearly>0.00</Condo_Fee_Yearly>
+	<Expense_and_Utility_Notes>@ 3.92% 30 yr-fixed 10% down Heating Cost to reflect all of heat + electric (all utilities)</Expense_and_Utility_Notes>
+	<Heating>15000</Heating>
+	<Latitude>42.35255</Latitude>
+	<ListingType>Sale</ListingType>
+	<Longitude>-71.14028</Longitude>
+	<LotSize>3822.00</LotSize>
+	<Monthly_Rent>10000</Monthly_Rent>
+	<Neighborhood>Allston</Neighborhood>
+	<Net_Operating_Income_NOI>77000.00</Net_Operating_Income_NOI>
+	<On_MLS_or_Off_MLS>Off Market</On_MLS_or_Off_MLS>
+	<Photos>55</Photos>
+	<Price>1475000.00</Price>
+	<Price_Per_Square>249</Price_Per_Square>
+	<PropertyType>Other</PropertyType>
+	<Size>5915.00</Size>
+	<Status>Active</Status>
+	<Street>Cambridge</Street>
+	<StreetNumber>558</StreetNumber>
+	<Total_Operating_Expenses>43000.00</Total_Operating_Expenses>
+	<Year_Built>1920</Year_Built>
+	<Yearly_Insurance>3000</Yearly_Insurance>
+	<Yearly_Maintenance>0</Yearly_Maintenance>
+	<Yearly_Rent>120000.00</Yearly_Rent>
+	<Yearly_Taxes>25000</Yearly_Taxes>
+	<Zip_Postal_Code>02134</Zip_Postal_Code>
+</Listing>
+<Listing>
+	<Name>122 Warren St</Name>
+	<OwnerId>00536000003fX2CAAU</OwnerId>
+	<RecordTypeId>01236000000JvZWAA0</RecordTypeId>
+	<Address>122 Warren St</Address>
+	<Bedrooms>4</Bedrooms>
+	<Bathrooms>2</Bathrooms>
+	<CAP_Rate>4.99</CAP_Rate>
+	<City>Medford</City>
+	<Condo_Fee_Yearly>0.00</Condo_Fee_Yearly>
+	<ListingType>Sale</ListingType>
+	<LotSize>3544.00</LotSize>
+	<Monthly_Rent>3600</Monthly_Rent>
+	<Neighborhood>Medford</Neighborhood>
+	<Net_Operating_Income_NOI>32455.00</Net_Operating_Income_NOI>
+	<On_MLS_or_Off_MLS>Off Market</On_MLS_or_Off_MLS>
+	<Photos>0</Photos>
+	<Price>650000.00</Price>
+	<Price_Per_Square>308</Price_Per_Square>
+	<Size>2112.00</Size>
+	<Status>Active</Status>
+	<Street>Warren</Street>
+	<StreetNumber>122</StreetNumber>
+	<Total_Operating_Expenses>10745.00</Total_Operating_Expenses>
+	<Trash_Removal>1000</Trash_Removal>
+	<Yearly_Insurance>1000</Yearly_Insurance>
+	<Yearly_Maintenance>1000</Yearly_Maintenance>
+	<Yearly_Rent>43200.00</Yearly_Rent>
+	<Yearly_Taxes>5745</Yearly_Taxes>
+	<Yearly_Water__Sewer>2000</Yearly_Water__Sewer>
+	<Zip_Postal_Code>02155</Zip_Postal_Code>
+</Listing>
+<Listing>
+	<Name>C Rd REVERE</Name>
+	<OwnerId>00536000002UzGEAA0</OwnerId>
+	<RecordTypeId>01236000000JvZWAA0</RecordTypeId>
+	<Address>"C" Road</Address>
+	<Bedrooms>5</Bedrooms>
+	<Bathrooms>2</Bathrooms>
+	<CAP_Rate>0.00</CAP_Rate>
+	<City>Revere</City>
+	<Condo_Fee_Yearly>0.00</Condo_Fee_Yearly>
+	<Description>Building Description Building Style	MULTI-GRDN	Foundation Type	CONCRETE	Flooring Type HARDWOOD # of Living Units	2	Frame Type	WOOD	Basement Floor	CONCRETE Year Built	1920	Roof Structure	GABLE	Heating Type	FORCED H/W Building Grade	AVERAGE	Roof Cover	ASPHALT	Heating Fuel GAS Building Condition	Avg-Good	Siding	VINYL	Air Conditioning	0% Finished Area (SF)	2366	Interior Walls PLASTER	# of Bsmt Garages	0 Number Rooms	11	# of Bedrooms	5	# of Full Baths	2 # of 1/2 Baths 1</Description>
+	<ListingType>Sale</ListingType>
+	<LotSize>5604.00</LotSize>
+	<Net_Operating_Income_NOI>0.00</Net_Operating_Income_NOI>
+	<Number_of_Units_in_Property>2</Number_of_Units_in_Property>
+	<On_MLS_or_Off_MLS>Off Market</On_MLS_or_Off_MLS>
+	<Photos>16</Photos>
+	<Price>700000.00</Price>
+	<Price_Per_Square>296</Price_Per_Square>
+	<PropertyType>Multi Family</PropertyType>
+	<Size>2366.00</Size>
+	<Status>Active</Status>
+	<Street>C</Street>
+	<Total_Operating_Expenses>0.00</Total_Operating_Expenses>
+	<Year_Built>1920</Year_Built>
+	<Yearly_Rent>0.00</Yearly_Rent>
+</Listing>
+<Listing>
+	<Name>Brighton Multi-Family</Name>
+	<OwnerId>00536000001WCoGAAW</OwnerId>
+	<RecordTypeId>01236000000JvZWAA0</RecordTypeId>
+	<Address>52-54 Donnybrook Rd</Address>
+	<Bedrooms>5</Bedrooms>
+	<Bathrooms>2</Bathrooms>
+	<City>Brighton</City>
+	<Condo_Fee_Yearly>0.00</Condo_Fee_Yearly>
+	<ListingType>Sale</ListingType>
+	<LotSize>4800.00</LotSize>
+	<Neighborhood>Brighton</Neighborhood>
+	<Net_Operating_Income_NOI>-7574.00</Net_Operating_Income_NOI>
+	<On_MLS_or_Off_MLS>Off Market</On_MLS_or_Off_MLS>
+	<Photos>0</Photos>
+	<Price>1000000.00</Price>
+	<Price_Per_Square>351</Price_Per_Square>
+	<PropertyType>Multi Family</PropertyType>
+	<Size>2852.00</Size>
+	<Status>Active</Status>
+	<Street>Donnybrook</Street>
+	<StreetNumber>52-54</StreetNumber>
+	<Total_Operating_Expenses>7574.00</Total_Operating_Expenses>
+	<Year_Built>1920</Year_Built>
+	<Yearly_Rent>0.00</Yearly_Rent>
+	<Yearly_Taxes>7574</Yearly_Taxes>
+	<Zip_Postal_Code>02135</Zip_Postal_Code>
+</Listing>
+<Listing>
+	<Name>Chelsea 3 Fam</Name>
+	<OwnerId>00536000002UzGEAA0</OwnerId>
+	<RecordTypeId>01236000000JvZWAA0</RecordTypeId>
+	<Address>Eden</Address>
+	<Bedrooms>5</Bedrooms>
+	<Bathrooms>3</Bathrooms>
+	<CAP_Rate>7.12</CAP_Rate>
+	<City>Chelsea</City>
+	<Common_Electric>10</Common_Electric>
+	<Condo_Fee_Yearly>0.00</Condo_Fee_Yearly>
+	<Expense_and_Utility_Notes>First floor OIL heat- 2nd &amp; 3rd floors Electric Heat.</Expense_and_Utility_Notes>
+	<ListingType>Sale</ListingType>
+	<LotSize>1276.00</LotSize>
+	<Monthly_Rent>3750</Monthly_Rent>
+	<Neighborhood>Chelsea</Neighborhood>
+	<Net_Operating_Income_NOI>40915.00</Net_Operating_Income_NOI>
+	<Number_of_Units_in_Property>3</Number_of_Units_in_Property>
+	<On_MLS_or_Off_MLS>Off Market</On_MLS_or_Off_MLS>
+	<Photos>0</Photos>
+	<Price>575000.00</Price>
+	<Price_Per_Square>313</Price_Per_Square>
+	<PropertyType>Multi Family</PropertyType>
+	<Rental_Notes>$50k down Mortgage - 30yr fixed 4%</Rental_Notes>
+	<Size>1836.00</Size>
+	<Status>In Preparation</Status>
+	<Total_Operating_Expenses>4085.00</Total_Operating_Expenses>
+	<Year_Built>1890</Year_Built>
+	<Yearly_Insurance>2200</Yearly_Insurance>
+	<Yearly_Rent>45000.00</Yearly_Rent>
+	<Yearly_Water__Sewer>1875</Yearly_Water__Sewer>
+</Listing>
+<Listing>
+	<Name>1789 Commonwealth Ave</Name>
+	<OwnerId>00536000000q36VAAQ</OwnerId>
+	<RecordTypeId>01236000000JvZWAA0</RecordTypeId>
+	<CAP_Rate>7.12</CAP_Rate>
+	<Condo_Fee_Yearly>0.00</Condo_Fee_Yearly>
+	<ListingType>Sale</ListingType>
+	<Monthly_Rent>13969</Monthly_Rent>
+	<Neighborhood>Brighton</Neighborhood>
+	<Net_Operating_Income_NOI>142350.00</Net_Operating_Income_NOI>
+	<On_MLS_or_Off_MLS>Off Market</On_MLS_or_Off_MLS>
+	<Photos>0</Photos>
+	<Price>2000000.00</Price>
+	<PropertyType>Multi Family</PropertyType>
+	<Status>ONMARKET</Status>
+	<StreetNumber>1789 Commonwealth Avenue</StreetNumber>
+	<Total_Operating_Expenses>25278.00</Total_Operating_Expenses>
+	<Yearly_Insurance>1500</Yearly_Insurance>
+	<Yearly_Rent>167628.00</Yearly_Rent>
+	<Yearly_Taxes>20057</Yearly_Taxes>
+	<Yearly_Water__Sewer>3721</Yearly_Water__Sewer>
+</Listing>
+<Listing>
+	<Name>154 Gold Street</Name>
+	<OwnerId>00536000002UzlWAAS</OwnerId>
+	<RecordTypeId>01236000000JvZWAA0</RecordTypeId>
+	<Address>South Boston</Address>
+	<CAP_Rate>4.85</CAP_Rate>
+	<Condo_Fee_Monthly>0</Condo_Fee_Monthly>
+	<Condo_Fee_Yearly>0.00</Condo_Fee_Yearly>
+	<ListingType>Sale</ListingType>
+	<LotSize>4295.00</LotSize>
+	<Monthly_Rent>9500</Monthly_Rent>
+	<Net_Operating_Income_NOI>97000.00</Net_Operating_Income_NOI>
+	<Number_of_Units_in_Property>3</Number_of_Units_in_Property>
+	<On_MLS_or_Off_MLS>Off Market</On_MLS_or_Off_MLS>
+	<Parking_Spaces>2</Parking_Spaces>
+	<Photos>0</Photos>
+	<Price_Per_Square>0</Price_Per_Square>
+	<PropertyType>Multi Family</PropertyType>
+	<Size>3240.00</Size>
+	<Status>Active</Status>
+	<Total_Operating_Expenses>17000.00</Total_Operating_Expenses>
+	<Trash_Removal>1000</Trash_Removal>
+	<Year_Built>2015</Year_Built>
+	<Yearly_Insurance>2000</Yearly_Insurance>
+	<Yearly_Maintenance>2000</Yearly_Maintenance>
+	<Yearly_Rent>114000.00</Yearly_Rent>
+	<Yearly_Taxes>10000</Yearly_Taxes>
+	<Yearly_Water__Sewer>2000</Yearly_Water__Sewer>
+</Listing>
+<Listing>
+	<Name>Heights</Name>
+	<OwnerId>00536000002UzGEAA0</OwnerId>
+	<RecordTypeId>01236000000JvZWAA0</RecordTypeId>
+	<Address>Austen Way Marlborough, MA 01752</Address>
+	<City>Marlborough</City>
+	<Condo_Fee_Yearly>0.00</Condo_Fee_Yearly>
+	<Description>274 units, 1's 2's and 2 bed + dens "Heights" $1,470 - $4,168 rent roll. BRAND NEW CLUBHOUSE &amp; FITNESS CENTER granite countertops in kitchens and baths, stainless steel energy-efficient appliance suite, hardwood-style flooring in kitchens and entryways.</Description>
+	<ListingType>Sale</ListingType>
+	<LotSize>99999.00</LotSize>
+	<Net_Operating_Income_NOI>0.00</Net_Operating_Income_NOI>
+	<Number_of_Units_in_Property>274</Number_of_Units_in_Property>
+	<On_MLS_or_Off_MLS>Off Market</On_MLS_or_Off_MLS>
+	<Parking_Spaces>274</Parking_Spaces>
+	<Photos>0</Photos>
+	<Price>99999999.00</Price>
+	<Price_Per_Square>1000</Price_Per_Square>
+	<PropertyType>Multi Family</PropertyType>
+	<Size>99999.00</Size>
+	<Status>In Preparation</Status>
+	<Street>Austen Way</Street>
+	<Total_Operating_Expenses>0.00</Total_Operating_Expenses>
+	<Yearly_Rent>0.00</Yearly_Rent>
+	<Zip_Postal_Code>01752</Zip_Postal_Code>
+</Listing>
+<Listing>
+	<Name>654 Mass Ave</Name>
+	<OwnerId>00536000002UzGEAA0</OwnerId>
+	<RecordTypeId>01236000000JvZWAA0</RecordTypeId>
+	<Address>Not exact address.</Address>
+	<Bed_Info>Large Private Deck</Bed_Info>
+	<Bedrooms>2</Bedrooms>
+	<Bathrooms>1</Bathrooms>
+	<CAP_Rate>5.12</CAP_Rate>
+	<City>Boston</City>
+	<Condo_Fee_Yearly>0.00</Condo_Fee_Yearly>
+	<Description>Second floor 2 bedroom 1 bathroom on Mass Ave. - between Washington and Harrison - on the number 1 bus route to Harvard Square, and around the corner from Silver line to South Station/Park Street. This home contains hardwood floors , breakfast bar counter, a perfect amount of cabinet space, stainless steel appliances, granite counter-tops, decorative gas fireplace, and bay windows with western exposure for just the right amount of natural light. This property has a huge private deck that is accessible through the larger of the two bedrooms. This feature gives the unit a great feel, and is truly a bonus to have. Walking distance to supermarket, public park(s), restaurants, stores, and cleaners. Washer and dryer are in unit.</Description>
+	<ListingType>Sale</ListingType>
+	<Monthly_Rent>3295</Monthly_Rent>
+	<Neighborhood>South End</Neighborhood>
+	<Net_Operating_Income_NOI>32763.00</Net_Operating_Income_NOI>
+	<On_MLS_or_Off_MLS>Off Market</On_MLS_or_Off_MLS>
+	<Photos>9</Photos>
+	<Price>648000.00</Price>
+	<Price_Per_Square>864</Price_Per_Square>
+	<PropertyType>Condo</PropertyType>
+	<Rental_Notes>Two bedroom Southend condo in Brownstone, hardwoods throughout, washer/dryer in unit, central air, gas fireplace and cooking, stainless steal appliances, granite counter tops, large private deck. Good closet space, high ceilings.. Kitchen counter bar.</Rental_Notes>
+	<Size>750.00</Size>
+	<Status>Active</Status>
+	<Street>654</Street>
+	<StreetNumber>654</StreetNumber>
+	<Total_Operating_Expenses>6777.00</Total_Operating_Expenses>
+	<Unit>3</Unit>
+	<Yearly_Rent>39540.00</Yearly_Rent>
+	<Yearly_Taxes>6777</Yearly_Taxes>
+	<Zip_Postal_Code>02118</Zip_Postal_Code>
+</Listing>
+<Listing>
+	<Name>9 Units in Swampscott by the Water</Name>
+	<OwnerId>00536000002UzlWAAS</OwnerId>
+	<RecordTypeId>01236000000JvZWAA0</RecordTypeId>
+	<Address>New Ocean</Address>
+	<Bedrooms>9</Bedrooms>
+	<Bathrooms>9</Bathrooms>
+	<CAP_Rate>7.30</CAP_Rate>
+	<City>swampscott</City>
+	<Common_Electric>1800</Common_Electric>
+	<Condo_Fee_Yearly>0.00</Condo_Fee_Yearly>
+	<ListingType>Sale</ListingType>
+	<Monthly_Rent>10000</Monthly_Rent>
+	<Net_Operating_Income_NOI>96400.00</Net_Operating_Income_NOI>
+	<Number_of_Units_in_Property>9</Number_of_Units_in_Property>
+	<On_MLS_or_Off_MLS>Off Market</On_MLS_or_Off_MLS>
+	<Photos>1</Photos>
+	<Price>1350000.00</Price>
+	<Price_Per_Square>193</Price_Per_Square>
+	<PropertyType>Multi Family</PropertyType>
+	<Size>7000.00</Size>
+	<Status>Active</Status>
+	<Street>New Ocean Street</Street>
+	<StreetNumber>6</StreetNumber>
+	<Total_Operating_Expenses>23600.00</Total_Operating_Expenses>
+	<Trash_Removal>1600</Trash_Removal>
+	<Yearly_Insurance>3800</Yearly_Insurance>
+	<Yearly_Rent>120000.00</Yearly_Rent>
+	<Yearly_Taxes>12400</Yearly_Taxes>
+	<Yearly_Water__Sewer>4000</Yearly_Water__Sewer>
+	<Zip_Postal_Code>01907</Zip_Postal_Code>
+</Listing>
+<Listing>
+	<Name>34 Eden St</Name>
+	<OwnerId>00536000003fX2CAAU</OwnerId>
+	<RecordTypeId>01236000000JvZWAA0</RecordTypeId>
+	<Bedrooms>5</Bedrooms>
+	<Bathrooms>3</Bathrooms>
+	<CAP_Rate>7.31</CAP_Rate>
+	<City>Chelsea</City>
+	<Common_Electric>100</Common_Electric>
+	<Condo_Fee_Yearly>0.00</Condo_Fee_Yearly>
+	<ListingType>Sale</ListingType>
+	<Monthly_Rent>4300</Monthly_Rent>
+	<Net_Operating_Income_NOI>42027.00</Net_Operating_Income_NOI>
+	<On_MLS_or_Off_MLS>Off Market</On_MLS_or_Off_MLS>
+	<Photos>0</Photos>
+	<Price_Per_Square>0</Price_Per_Square>
+	<Size>1836.00</Size>
+	<Status>In Preparation</Status>
+	<Street>Eden St</Street>
+	<StreetNumber>34</StreetNumber>
+	<Total_Operating_Expenses>9573.00</Total_Operating_Expenses>
+	<Yearly_Insurance>2200</Yearly_Insurance>
+	<Yearly_Rent>51600.00</Yearly_Rent>
+	<Yearly_Taxes>5273</Yearly_Taxes>
+	<Yearly_Water__Sewer>2000</Yearly_Water__Sewer>
+	<Zip_Postal_Code>02150</Zip_Postal_Code>
+</Listing>
+<Listing>
+	<Name>East Boston 9 Unit With Parking&amp; Approved Permits</Name>
+	<OwnerId>00536000000q36VAAQ</OwnerId>
+	<RecordTypeId>01236000000JvZWAA0</RecordTypeId>
+	<Address>161 Leyden</Address>
+	<City>East Boston</City>
+	<Condo_Fee_Yearly>0.00</Condo_Fee_Yearly>
+	<ListingType>Sale</ListingType>
+	<Neighborhood>East Boston</Neighborhood>
+	<Net_Operating_Income_NOI>0.00</Net_Operating_Income_NOI>
+	<Number_of_Units_in_Property>9</Number_of_Units_in_Property>
+	<On_MLS_or_Off_MLS>Off Market</On_MLS_or_Off_MLS>
+	<Photos>0</Photos>
+	<Price>1850000.00</Price>
+	<PropertyType>Multi Family</PropertyType>
+	<Status>Active</Status>
+	<Street>Leyden</Street>
+	<StreetNumber>161</StreetNumber>
+	<Total_Operating_Expenses>0.00</Total_Operating_Expenses>
+	<Yearly_Rent>0.00</Yearly_Rent>
+</Listing>
+<Listing>
+	<Name>Knox</Name>
+	<OwnerId>00536000002UzGEAA0</OwnerId>
+	<RecordTypeId>01236000000JvZWAA0</RecordTypeId>
+	<Address>Knox</Address>
+	<Bedrooms>3</Bedrooms>
+	<Bathrooms>3</Bathrooms>
+	<CAP_Rate>3.28</CAP_Rate>
+	<City>Boston</City>
+	<Condo_Fee_Yearly>0.00</Condo_Fee_Yearly>
+	<Description>Seller not looking to sell to an investor. The narrow one-way network and irregular grid arrangement of the streets make the interior urban spaces of Bay Village relatively quiet and pedestrian-friendly, due to sparse automobile traffic. Most of the sidewalks are paved with brick, and are lit by gas streetlamps at night. One small street is still paved with original cobblestones, while the remainder have long ago been repaved with asphalt. There are a few "vest-pocket parks" located within or nearby Bay Village, including Eliot Norton Park, which although technically located in the Theatre District, is just across Charles Street from the eastern boundary of the neighborhood.[3] The Boston Public Garden and Boston Common are located just two blocks away from the northern edge of Bay Village. Traditionally middle to lower-middle class, the neighborhood has become relatively more expensive and upscale, beginning around the 1990s. The Bay Village Neighborhood Association (BVNA) is very active in controlling urban nuisances, such as traffic, litter, graffiti, and pet wastes (an approved dog walking area is located next to Eliot Norton Park). The BVNA is also known for organizing Spring and Fall Cleanup days, a book club, and the Bay Village Annual Neighborhood Block Party (which features restaurant tables and service literally in the middle of the narrow streets, when permitted by the weather). "Bay Village Historic District". The exterior appearance of buildings is protected by a Historic District designation administered by the Bay Village Historic District Commission. Owners of income-producing properties listed individually in the National Register of Historic Places or of properties that are contributing resources within a National Register Historic District may be eligible for a 20% investment tax credit for the rehabilitation of the historic structure. The rehabilitation may be of a commercial, industrial, or residential property, for rentals. The tax incentives program is operated by the Federal Historic Preservation Tax Incentives program, which is managed jointly by the National Park Service, individual State Historic Preservation Offices, and the Internal Revenue Service. Aside from the 20% tax credit, the tax incentive program offers a 10% tax credit for rehabilitation to owners of non-historic, non-residential buildings constructed before 1936.</Description>
+	<Expense_and_Utility_Notes>30 yr. fixed at 3.96% with 250k down.</Expense_and_Utility_Notes>
+	<ListingType>Sale</ListingType>
+	<LotSize>863.00</LotSize>
+	<Monthly_Rent>8000</Monthly_Rent>
+	<Neighborhood>Bay Village</Neighborhood>
+	<Net_Operating_Income_NOI>82013.00</Net_Operating_Income_NOI>
+	<Number_of_Units_in_Property>3</Number_of_Units_in_Property>
+	<On_MLS_or_Off_MLS>Off Market</On_MLS_or_Off_MLS>
+	<Photos>34</Photos>
+	<Price>2500000.00</Price>
+	<Price_Per_Square>1017</Price_Per_Square>
+	<PropertyType>Multi Family</PropertyType>
+	<Size>2458.00</Size>
+	<Status>Active</Status>
+	<Street>Knox</Street>
+	<Total_Operating_Expenses>13987.00</Total_Operating_Expenses>
+	<Yearly_Rent>96000.00</Yearly_Rent>
+	<Yearly_Taxes>13987</Yearly_Taxes>
+	<Zip_Postal_Code>02116</Zip_Postal_Code>
+</Listing>
+<Listing>
+	<Name>Havre</Name>
+	<OwnerId>00536000000q36VAAQ</OwnerId>
+	<RecordTypeId>01236000000JvZWAA0</RecordTypeId>
+	<Address>Havre</Address>
+	<City>East Boston</City>
+	<Condo_Fee_Yearly>0.00</Condo_Fee_Yearly>
+	<ListingType>Sale</ListingType>
+	<LotSize>2500.00</LotSize>
+	<Net_Operating_Income_NOI>0.00</Net_Operating_Income_NOI>
+	<On_MLS_or_Off_MLS>Off Market</On_MLS_or_Off_MLS>
+	<Photos>0</Photos>
+	<Price>800000.00</Price>
+	<PropertyType>Single Family</PropertyType>
+	<Status>Active</Status>
+	<Street>Havre</Street>
+	<Total_Operating_Expenses>0.00</Total_Operating_Expenses>
+	<Yearly_Rent>0.00</Yearly_Rent>
+</Listing>undefined</Listings>
